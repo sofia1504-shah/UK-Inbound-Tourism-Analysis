@@ -6,6 +6,10 @@ This project analyses UK inbound tourism data to explore visitor behaviour, spen
 
 I used SQL Server to clean, transform and analyse the data, before building interactive dashboards in Tableau to present the key findings.
 
+## Interactive Dashboard
+
+[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/sofia.shah7982/viz/UK-Inbound_Tourism_Analysis/UKInboundTourismOverview)
+
 ## Tools Used
 
 - SQL
